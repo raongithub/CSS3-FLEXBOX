@@ -3,6 +3,7 @@ CSS3 FLEXBOX Layout
 What is FLEXBOX?
     * A CSS3 layout mode that provides an easy and clean way to arrange items within a container
         > No Floats
+        > FLEXBOX is a 1 dimensional system
         > Responsive and mobile friendly
         > Positioning child elements is much easier
         > Flex container's margins do not collapse with the margins of its content
